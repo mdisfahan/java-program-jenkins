@@ -7,6 +7,3 @@ public class Student {
         System.out.println("Hi , i am the student");
     }  
 }
-
-
-
